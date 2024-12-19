@@ -1,8 +1,10 @@
 # Byte-compiled / optimized / DLL files
 .idea
 .env/*
+
+.envs/*
 .DS_Store
-!.env/.env.example
+!.envs/.env.example
 staticfiles/
 
 

@@ -1,0 +1,8 @@
+-r base.txt
+
+gunicorn==22.0.0
+psycopg2-binary==2.9.9
+
+
+
+# -r base.txt ata menans ami jodi production install kori ata base .txt er gulao install kore nibe
